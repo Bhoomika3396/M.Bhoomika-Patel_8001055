@@ -1,0 +1,15 @@
+body{
+background:#f3f3f3;
+}
+
+.card{
+transition:.4s;
+}
+
+.card:hover{
+transform:scale(1.05);
+}
+
+footer i{
+cursor:pointer;
+}
